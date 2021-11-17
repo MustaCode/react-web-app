@@ -1,4 +1,11 @@
 # react-web-app
+
+## Build the project before deploy
+
+```
+npm run build
+```
+
 ## Deploy on Firebase
 
 ```
