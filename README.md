@@ -32,3 +32,7 @@ Add to the end:
 ```
 "emmet.includeLanguages": { "javascript": "html" }
 ```
+### Best Theme
+```
+Monokai Pro
+```
